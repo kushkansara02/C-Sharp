@@ -1,0 +1,12 @@
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/bin/Debug/netcoreapp2.1/DoomsdayProblem.deps.json
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/bin/Debug/netcoreapp2.1/DoomsdayProblem.runtimeconfig.json
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/bin/Debug/netcoreapp2.1/DoomsdayProblem.runtimeconfig.dev.json
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/bin/Debug/netcoreapp2.1/DoomsdayProblem.dll
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/bin/Debug/netcoreapp2.1/DoomsdayProblem.pdb
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.csprojAssemblyReference.cache
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.csproj.CoreCompileInputs.cache
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.AssemblyInfoInputs.cache
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.AssemblyInfo.cs
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.dll
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.pdb
+/Users/kushkansara/Desktop/Coding/GitHub/C#/DoomsdayProblem/DoomsdayProblem/obj/Debug/netcoreapp2.1/DoomsdayProblem.genruntimeconfig.cache
